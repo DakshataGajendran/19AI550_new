@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e6d2f1e7-67f9-4c77-91ca-b5cb8c36c1dd" /># Ex.No: 8  Implementation of Path finding using A* algorithm
+# Ex.No: 8  Implementation of Path finding using A* algorithm
 ### DATE:  15-05-2026                                                                          
 ### REGISTER NUMBER : 212223240021
 ### AIM: 
@@ -136,7 +136,8 @@ Check the following
 2. Neighbors set manually via Inspector
 3. WaypointGraph script on a manager
 4. AICharacter assigned a start and goal
-### Output:
+```
+## Output:
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/316c87a2-44de-4f8b-b9dc-63f0fb8bf09c" />
 
